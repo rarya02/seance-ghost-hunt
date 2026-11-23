@@ -1,0 +1,36 @@
+# Build output
+bin/
+out/
+*.class
+
+# Eclipse workspace settings
+.settings/
+.metadata/
+
+# Local data
+scores.txt
+
+# macOS
+.DS_Store
+
+# Local scripts and build files not used by the Eclipse project
+run.sh
+run.bat
+pom.xml
+
+# Local folders
+audio/
+box/
+
+# Documents and archives, at any depth
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.odt
+*.ods
+*.odp
+*.zip
